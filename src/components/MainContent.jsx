@@ -32,7 +32,7 @@ const MainContent = () => {
                     </div>
                 </div>
                 <div className="image" >
-                    <img src="../img.svg" alt="Description of the image" className='w-[30rem] md:mx-10' />
+                    <img src="./img.svg" alt="Description of the image" className='w-[30rem] md:mx-10' />
                 </div>
             </div>
 
@@ -40,7 +40,7 @@ const MainContent = () => {
             <div className="learnmore">
 
                 <div className="section1 flex justify-between flex-col md:flex-row md:my-32 my-20">
-                    <img src="../img1.svg" alt="Description of the image" className='md:w-1/3 h-full rounded-lg' style={{ width: '450px', height: '300px' }} />
+                    <img src="./img1.svg" alt="Description of the image" className='md:w-1/3 h-full rounded-lg' style={{ width: '450px', height: '300px' }} />
                     <section className="md:w-2/3 text-left md:mx-20 my-10 md:my-0">
                         <h2 className="md:text-5xl text-3xl font-semibold text-gray-500">Personalized Career Roadmaps</h2>
                         <p className='md:text-xl text-lg my-5'>Our founder offers one-on-one career guidance sessions that provide you with a customized career roadmap. These sessions are designed to help you navigate your career path effectively, whether you are just starting out or seeking a career change.</p>
@@ -80,11 +80,11 @@ const MainContent = () => {
                             </div>
                         )}
                     </section>
-                    <img src="../img.jpg" alt="Description of the image" className='md:w-1/3 h-full rounded-lg' style={{ width: '450px', height: '300px' }} />
+                    <img src="./img.jpg" alt="Description of the image" className='md:w-1/3 h-full rounded-lg' style={{ width: '450px', height: '300px' }} />
                 </div>
 
                 <div className="section1 flex justify-between flex-col md:flex-row md:my-32  my-20">
-                    <img src="../img3.avif" alt="Description of the image" className='md:w-1/3 h-full rounded-lg' style={{ width: '450px', height: '300px' }} />
+                    <img src="./img3.avif" alt="Description of the image" className='md:w-1/3 h-full rounded-lg' style={{ width: '450px', height: '300px' }} />
                     <section className="md:w-2/3 text-left md:mx-20 my-10 md:my-0">
                         <h2 className="md:text-5xl text-3xl font-semibold text-gray-500">Networking and Professional Growth</h2>
                         <p className='md:text-xl text-lg my-5'>Our founder's career guidance includes exclusive networking opportunities and professional growth strategies. You'll gain access to a broad professional network and receive tips on building and maintaining valuable industry connections.</p>
